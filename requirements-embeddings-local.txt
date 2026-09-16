@@ -1,0 +1,3 @@
+# Нужно только если EMBEDDING_PROVIDER=local (.env). Тянет за собой torch — тяжёлая
+# установка (~1-2 GB), первый запуск ещё и скачает саму модель (~100-450 MB).
+sentence-transformers>=3.0

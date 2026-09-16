@@ -1,0 +1,2 @@
+# Нужно только если EMBEDDING_PROVIDER=openai (.env), + OPENAI_API_KEY.
+openai>=1.30
